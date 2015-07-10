@@ -1,2 +1,2 @@
 # dsandbox
-Terzo tentativo di conflitto. 
+Terzo tentativo di conflitto.
