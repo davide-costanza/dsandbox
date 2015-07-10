@@ -1,3 +1,3 @@
 # dsandbox
 Contenuto di prova
-Altro contenuto di test.
+===Conflitto proveniente da GitHub ===
